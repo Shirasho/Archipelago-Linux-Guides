@@ -2,12 +2,14 @@
 **Tested AP World Version**: 2.0.0  
 **Tested Linux Flavors**: Arch (CachyOS)
 
+_This guide should be similar for Kingdom Hearts I, but there is different randomizer software used._
+
 # Prerequisites
 * [OpenKH Mod Manager](https://github.com/OpenKH/OpenKh/releases/latest/)
 * Basic knowledge of Wine/Steam prefixes + compatdata
 
 # Installation Steps
-1. Install Kingdom Hearts II on Steam.
+1. Install Kingdom Hearts 1.5+2.5 ReMIX on Steam.
 2. In the Compatibility tab change the compatibility tool to `Proton Experimental`.
 3. Open the Properties of the game and enter `SteamDeck=1 WINEDLLOVERRIDES="version=n,b" STEAM_COMPAT_LAUNCHER_SERVICE=proton %command%` into the launch options.
     * `SteamDeck=1` fixes a known issue on Linux where cutscenes do not play correctly.
