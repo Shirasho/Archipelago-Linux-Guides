@@ -8,6 +8,7 @@
 * The Windows release of the [Battle.net launcher](https://download.battle.net/en-us/?product=bnetdesk)
 * [ProtonTricks](https://github.com/matoking/protontricks)
 * [DXVK](https://github.com/doitsujin/dxvk/releases/latest) (Optional)
+* Basic knowledge of Wine/Steam prefixes + compatdata
 
 # Installation Steps
 
